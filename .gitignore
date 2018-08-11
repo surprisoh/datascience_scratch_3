@@ -1,0 +1,6 @@
+backup
+*.key
+.../.ipynb_checkpoints
+*.ipynb_checkpoints
+/code/*.txt
+
